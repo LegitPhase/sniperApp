@@ -4,6 +4,7 @@ Need discord webhook / api key
 Setup :
 
 pip install requests
+
 pip install discord-webhook
 
 Need :
